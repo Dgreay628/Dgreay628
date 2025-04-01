@@ -35,12 +35,6 @@
   </a>
 </p>
 
-- **[Power BI Certification](https://www.credly.com/badges/1555dfb9-882a-4b3f-a80e-bfeedbb288b2/linked_in?t=srnrr0)** – *Issued by Colaberry*  
-  Validates proficiency in Power BI, Azure SQL, SSAS, and data modeling.
-
-- **[Data Analytics Certification](https://www.credly.com/badges/792e9fac-c451-4846-968f-f22910ef4023/linked_in?t=srnrlr)** – *Issued by Colaberry*  
-  Focused on SQL (SSIS, SSRS, SSAS), Excel, statistics, and BI reporting.
-
 
 ---
 
