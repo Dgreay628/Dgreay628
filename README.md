@@ -19,7 +19,6 @@
 
  **Email:** djgray433@gmail.com  
  **LinkedIn:** [donald-gray-9576119b](https://www.linkedin.com/in/donald-gray-9576119b/)  
- **More Projects:** [View Repositories »](https://github.com/Dgrey628?tab=repositories)
 
 ---
 
