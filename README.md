@@ -19,15 +19,21 @@
 
  **Email:** djgray433@gmail.com  
  **LinkedIn:** [donald-gray-9576119b](https://www.linkedin.com/in/donald-gray-9576119b/)  
+ 
 
 ---
 
-
 ## 📜 Certifications
 
-[![Power BI Certification](./PowerBICert.png)](https://www.credly.com/badges/1555dfb9-882a-4b3f-a80e-bfeedbb288b2/linked_in?t=srnrr0)
-&nbsp;
-[![Data Analytics Certification](./DataAnalyticsCert.png)](https://www.credly.com/badges/792e9fac-c451-4846-968f-f22910ef4023/linked_in?t=srnrlr)
+<p align="left">
+  <a href="https://www.credly.com/badges/1555dfb9-882a-4b3f-a80e-bfeedbb288b2/linked_in?t=srnrr0">
+    <img src="PowerBICert.png" alt="Power BI Certification" width="130"/>
+  </a>
+  &nbsp;
+  <a href="https://www.credly.com/badges/792e9fac-c451-4846-968f-f22910ef4023/linked_in?t=srnrlr">
+    <img src="DataAnalyticsCert.png" alt="Data Analytics Certification" width="130"/>
+  </a>
+</p>
 
 - **[Power BI Certification](https://www.credly.com/badges/1555dfb9-882a-4b3f-a80e-bfeedbb288b2/linked_in?t=srnrr0)** – *Issued by Colaberry*  
   Validates proficiency in Power BI, Azure SQL, SSAS, and data modeling.
@@ -35,7 +41,6 @@
 - **[Data Analytics Certification](https://www.credly.com/badges/792e9fac-c451-4846-968f-f22910ef4023/linked_in?t=srnrlr)** – *Issued by Colaberry*  
   Focused on SQL (SSIS, SSRS, SSAS), Excel, statistics, and BI reporting.
 
-  Focused on SQL (SSIS, SSRS, SSAS), Excel, statistics, and BI reporting.
 
 ---
 
